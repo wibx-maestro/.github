@@ -1,6 +1,6 @@
 # Maestro
 
-Plataforma da [Wibx](https://wibx.io) para operar white labels: inteligência de mercado, produção
+Plataforma da [WIBX Company](https://wibx.io) para operar white labels: inteligência de mercado, produção
 de conteúdo e orquestração de trabalho, com cada decisão registrada, auditável e selada.
 
 Os repositórios desta organização são privados e o acesso é por convite. Este repositório
@@ -16,9 +16,11 @@ request e a política de segurança.
 
 ## Direitos
 
-© 2026 Wibx. Todos os direitos reservados. O código, a documentação e a marca Maestro são
-propriedade da Wibx. Nenhuma licença de uso, cópia, modificação ou distribuição é concedida,
-exceto por acordo escrito.
+© 2026 WIBX Company. Todos os direitos reservados. O código e a documentação destes repositórios
+são propriedade da WIBX Company. Nenhuma licença de uso, cópia, modificação ou distribuição é
+concedida, exceto por acordo escrito.
+
+"Maestro" é o nome de trabalho deste software, não uma marca da WIBX Company.
 
 ---
 
